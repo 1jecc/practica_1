@@ -4,9 +4,18 @@ h1 {
 }
 h2 {
     background-color: rgb(28, 35, 181);
-    color: black;
+    color: white;
 }
 
+h3 {
+    background-color: rgb(255, 0, 0);
+    color : white
+}
+
+h4 {
+    background-color: rgb(28, 35, 181);
+    color: white;
+}
 section {
-    border: 2px  wheat ;
+    border: 5px solid black ;
 }
